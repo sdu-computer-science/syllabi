@@ -1,4 +1,4 @@
-# syllabi
+# Syllabi
 Contains all the syllabi for the Faculty of Science and Engineering
 
 # Core classes
