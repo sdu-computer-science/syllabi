@@ -9,3 +9,4 @@ Contains all the syllabi for the Faculty of Science and Engineering
 * [CSS322 - Formal Languages & Automata Theory](./CSS322)
 
 # Etc
+![about](https://sdu.edu.kz/wp-content/uploads/2019/08/sdu-logo-white.svg)
