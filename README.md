@@ -1,4 +1,7 @@
-![sducs](https://img.shields.io/badge/sducs-.~-informational)
+![logo](https://img.shields.io/badge/logo-.~-informational)
+![](https://img.shields.io/badge/status-inprogress-orange)
+![](https://img.shields.io/badge/status-reejected-red)
+![](https://img.shields.io/badge/status-accepted-green)
 
 # Syllabi
 Contains all the syllabi for the Faculty of Science and Engineering
