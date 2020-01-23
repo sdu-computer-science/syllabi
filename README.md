@@ -6,6 +6,9 @@
 
 ![](https://img.shields.io/badge/status-accepted-green)
 
+![](https://img.shields.io/badge/name-konsntantin_latuta-success)
+
+
 # Syllabi
 Contains all the syllabi for the Faculty of Science and Engineering
 
