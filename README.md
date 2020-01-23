@@ -1,6 +1,6 @@
 ![logo](https://img.shields.io/badge/logo-.~-informational)
 
-![](https://img.shields.io/badge/status-inprogress-orange)
+![](https://img.shields.io/badge/status-beta-orange)
 
 ![](https://img.shields.io/badge/status-rejected-red)
 
