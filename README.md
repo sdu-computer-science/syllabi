@@ -1,6 +1,9 @@
 ![logo](https://img.shields.io/badge/logo-.~-informational)
+
 ![](https://img.shields.io/badge/status-inprogress-orange)
-![](https://img.shields.io/badge/status-reejected-red)
+
+![](https://img.shields.io/badge/status-rejected-red)
+
 ![](https://img.shields.io/badge/status-accepted-green)
 
 # Syllabi
