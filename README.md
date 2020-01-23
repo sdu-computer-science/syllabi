@@ -1,5 +1,5 @@
 # Syllabi
-Contains all the syllabi for the Faculty of Science and Engineering `.~`
+Contains all the syllabi for the Faculty of Science and Engineering `.~` ![asd](https://img.shields.io/badge/sducs-.~-success)
 
 # Core classes
 * [CSS307 - System Programming](./CSS307)
