@@ -14,4 +14,4 @@ Automata theory ...
 * 40% - summative 
 
 ## Useful Links
-* [Automata course from God-father of automata)](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about)
+* [Automata course from God-father of automata)](https://www.edx.org/course/automata-theory)
